@@ -4,16 +4,7 @@ import "./App.css"
 const Counter = () => {
 
     const [count, setCount] = useState(0);
-
-    // function handleInc(e) {
-        
-    // }
-    // function handleDec(e) {
-
-    // }
-    // function handleReset(e) {
-
-    // }
+    
   return (
     <div className='con'>
         <h1>Counter App</h1>
